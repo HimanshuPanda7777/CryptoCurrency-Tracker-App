@@ -1,8 +1,32 @@
-# React + Vite
+Cryptocurrency Price Tracker App
+Introduction
+A web application built with React.js to track real-time cryptocurrency prices, set alerts, and view historical data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Real-time price tracking
+Custom price alerts
+User-friendly interface
+Historical price data
+Multi-currency support
+Technologies Used
+Frontend: React.js, CSS
+APIs: CoinGecko API
+Installation
+Clone the repository:
 
-Currently, two official plugins are available:
+Copy
+git clone https://github.com/yourusername/cryptocurrency-price-tracker.git
+Navigate to the project directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Copy
+cd cryptocurrency-price-tracker
+Install dependencies:
+
+Copy
+npm install
+Running the App
+Start the development server:
+
+Copy
+npm start
+Open http://localhost:3000 in your browser.
